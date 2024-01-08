@@ -1,2 +1,2 @@
 # Sales-Management-Project
-https://wordpress.com/pages/myportfoliowalkthrough8.wordpress.com
+https://myportfoliowalkthrough8.wordpress.com/image-portfolio/?frame-nonce=50fa2a2239
